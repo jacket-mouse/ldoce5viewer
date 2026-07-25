@@ -14,4 +14,4 @@ ldoce5viewer/qtgui/ui/main.py
 ldoce5viewer/qtgui/ui/indexer.py
 .idea
 .venv/*
-Idoce5.data/*
+ldoce5.data/*
