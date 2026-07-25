@@ -42,7 +42,7 @@ dmg: build
 	cp -r "dist/LDOCE5 Viewer.app" dist/dmg
 
 #	# If the DMG already exists, delete it.
-#	test -f "dist/LDOCE5 Viewer.dmg" && rm "dist/LDOCE5 Viewer.dmg"
+#	test -f "dist/LDOCE5 Viewer.dmg" && rm "dist/LDOCE6 Viewer.dmg"
 
 	create-dmg \
 	  --volname "LDOCE5 Viewer" \
